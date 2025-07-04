@@ -14,22 +14,6 @@ Currently exploring how to integrate local LLMs into full-stack apps using TypeS
 
 ---
 
-### 🧠 Featured Projects
-
-- **Multi Media Platform (2023–2025)**  
-  Shipped MVP web + mobile stack with React Native, Tamagui, Django, and Redis.  
-  Owned frontend architecture, navigation, and form systems across full-stack features.
-
-- **AGI Dashboard Platform (2021–2023)**  
-  Led performance and usability upgrades across React, Django, and GraphQL services.  
-  Delivered partner data integrations deployed in AWS Lambda + Docker environments.
-
-- **Telecom Monitoring Platform (2018–2021)**  
-  Built C + WebSockets-based dashboards for live telecom hardware.  
-  Designed backend alarm pipelines, parsing hardware triggers into management systems.
-
----
-
 ### 🛠️ Languages & Tools
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
@@ -52,7 +36,6 @@ Currently exploring how to integrate local LLMs into full-stack apps using TypeS
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/fullstackengineer)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/lukeweaver)
 
 ---
 
