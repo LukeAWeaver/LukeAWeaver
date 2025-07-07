@@ -1,5 +1,3 @@
-# Luke Weaver
-
 **Full Stack Software Engineer**  
 7 years of experience shipping production-grade applications — from low-latency telecom dashboards to mobile-first platforms. I specialize in building robust UI systems, layered frontend architectures, and scalable backend APIs. My recent focus blends React Native, Django, Redis, and Postgres, along with experimental work integrating local LLMs into real-time UIs.
 
