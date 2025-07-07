@@ -1,9 +1,7 @@
-# 👨‍💻 Luke Weaver
+# Luke Weaver
 
 **Full Stack Software Engineer**  
-React | TypeScript | Django | Postgres | React Native | Expo
-
-I'm a senior engineer with 7 years of experience shipping production-grade applications — from low-latency telecom dashboards to mobile-first platforms. I specialize in building robust UI systems, layered frontend architectures, and scalable backend APIs. My recent focus blends React Native, Django, Redis, and Postgres, along with experimental work integrating local LLMs into real-time UIs.
+7 years of experience shipping production-grade applications — from low-latency telecom dashboards to mobile-first platforms. I specialize in building robust UI systems, layered frontend architectures, and scalable backend APIs. My recent focus blends React Native, Django, Redis, and Postgres, along with experimental work integrating local LLMs into real-time UIs.
 
 ---
 
@@ -30,12 +28,6 @@ Currently exploring how to integrate local LLMs into full-stack apps using TypeS
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
-
----
-
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/fullstackengineer)
 
 ---
 
