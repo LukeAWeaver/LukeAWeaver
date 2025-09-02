@@ -3,10 +3,10 @@
 
 ---
 
-### ⚡ What I’m Working On
+## ⚡ What I’m Working On
 
 Currently keeping my skills up and venturing towards self growth by developing a React Native mobile app that I plan on releasing to the app store in the upcoming months!
-# tech
+#### tech
 ![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-grey?logo=tailwind-css&logoColor=38B2AC&style=for-the-badge)
@@ -17,7 +17,7 @@ Currently keeping my skills up and venturing towards self growth by developing a
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react)
