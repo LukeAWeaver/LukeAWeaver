@@ -5,8 +5,15 @@
 
 ### ⚡ What I’m Working On
 
-Currently exploring how to integrate local LLMs into full-stack apps using TypeScript, Redis, and Django. Applying rigorous system design to build memory scaffolds, prompt-bound UI generation, and developer-facing GPT workflows.  
-→ [ai-ux-visualization.onrender.com](https://ai-ux-visualization.onrender.com)
+Currently keeping my skills up and venturing towards self growth by developing a React Native mobile app that I plan on releasing to the app store in the upcoming months!
+![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-grey?logo=tailwind-css&logoColor=38B2AC&style=for-the-badge)
+![NestJS](https://img.shields.io/badge/-NestJs-ea2845?logo=nestjs&logoColor=white&style=flat-square)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white&style=for-the-badge)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo)
+[![CocoaPods Version](https://img.shields.io/cocoapods/v/MyAwesomePod.svg?style=for-the-badge)](https://cocoapods.org/pods/MyAwesomePod)
+
 
 ---
 
